@@ -1,3 +1,4 @@
 * ECU hacking
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/135174179][1865_发动机控制器ECU]]
+- [[https://blog.csdn.net/grey_csdn/article/details/135440267][1874_曲轴位置传感器]]
